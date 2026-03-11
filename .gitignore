@@ -1,0 +1,11 @@
+data/images/
+data/*.csv
+results/best_model.pth
+results/*.png
+results/gradcam/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.DS_Store
