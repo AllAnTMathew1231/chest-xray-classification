@@ -1,6 +1,6 @@
 # Chest X-Ray Multi-Label Disease Classification
 
-> **Deep Learning Assignment**  
+> **Deep Learning 
 > Topic: *Computer Vision – Image Classification 
 
 ---
