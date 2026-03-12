@@ -1,8 +1,7 @@
 # Chest X-Ray Multi-Label Disease Classification
 
 > **Deep Learning Assignment**  
-> Topic: *Computer Vision – Image Classification (Current Research Areas)*  
-> Assignment 1 (Problem · Model · Dataset) + Assignment 2 (Implementation · Report · Seminar)
+> Topic: *Computer Vision – Image Classification 
 
 ---
 
